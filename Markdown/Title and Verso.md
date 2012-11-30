@@ -1,0 +1,6 @@
+CALMCloud Application Lifecycle Managementwith Microsoft Windows AzureSimon Munro
+
+
+# Verso
+
+Copyright © Minttulip Limited.Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.3 or any later version published by the Free Software Foundation; with the Invariant Sections being "About this book", all text and images on Front-Cover Texts, and all the Back-Cover Texts.A copy of the license is included in the section entitled "GNU Free Documentation License".This document is provided “as-is.” Information and views expressed in this document, including URL and other Internet website references, may change without notice. You bear the risk of using it. Some examples depicted herein are provided for illustration only and are fictitious. No real association or connection is intended or should be inferred.Microsoft, Windows Azure, and Windows Azure SQL Database are trademarks of the Microsoft group of companies.All other trademarks are the property of their respective owners.Copy editor: Anna GreenwoodDiagrams and cover design: Damian HollandCover photo: Shard London by Vulture Labs. Licensed by Getty Images.First released: September 2012This release: v1.1 November 2012
