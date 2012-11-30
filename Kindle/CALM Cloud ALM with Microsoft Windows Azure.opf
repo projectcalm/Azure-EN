@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="calm-01">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+
+	<meta name="cover" content="cover" />
+	<dc:title>CALM - Cloud ALM with Microsoft Windows Azure</dc:title>
+	<dc:language>en-gb</dc:language>
+	<dc:creator>Simon Munro</dc:creator>
+	<dc:publisher>Minttulip Ltd</dc:publisher>
+	<dc:subject>Computers</dc:subject>
+	<dc:date>2012-09-24</dc:date>
+	<dc:rights>Copyright (C) Minttulip Ltd</dc:rights>
+	<dc:description>CALM is guidance for building applications on Windows Azure. It based on a set of models that are produced during the design and implementation of the application. CALM is not prescriptive and will apply to any project targeted at Windows Azure.</dc:description>
+</metadata>
+
+	<manifest>
+		<item id="item1" media-type="application/xhtml+xml" href="toc.html"></item>
+		<item id="toc" media-type="application/x-dtbncx+xml" href="calm.ncx"/>
+		<item id="body" media-type="application/xhtml+xml" href="calm.html"></item>
+
+	</manifest>
+
+	<spine toc="toc">
+		<itemref idref="item1"/>
+		<itemref idref="body"/>
+	</spine>
+
+	<guide>
+		<reference type="toc" title="Table of Contents" href="toc.html"/>
+ 		<reference type="cover" title="Cover Image" href="./images/cover.gif" /> 
+		<!-- <reference type="text" title="About" href="calm.html#AboutThisBook"></reference> -->
+	</guide>
+
+</package> 

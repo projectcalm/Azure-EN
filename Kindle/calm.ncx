@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+	<head>
+
+		<meta name="dtb:uid" content="urn:uuid:calm-01"/>
+		<meta name="dtb:depth" content="1"/>
+		<meta name="dtb:totalPageCount" content="0"/>
+		<meta name="dtb:maxPageNumber" content="0"/>
+	</head>
+
+	<docTitle><text>CALM - Cloud ALM with Microsoft Windows Azure</text></docTitle>
+	<docAuthor><text>Simon Munro</text></docAuthor>
+
+
+
+	<navMap>
+
+
+		<navPoint id="AboutThisBook" playOrder="1">
+			<navLabel><text>About this book</text></navLabel>
+			<content src="calm.html#AboutThisBook"/>
+		</navPoint>
+
+		<navPoint id="IntroducingCalm" playOrder="2">
+			<navLabel><text>Introducing CALM</text></navLabel>
+			<content src="calm.html#IntroducingCalm"/>
+		</navPoint>
+
+		<navPoint id="ModelOverview" playOrder="3">
+			<navLabel><text>Overview of the CALM Models</text></navLabel>
+			<content src="calm.html#ModelOverview"/>
+		</navPoint>
+
+		<navPoint id="Qualify" playOrder="4">
+			<navLabel><text>Qualify</text></navLabel>
+			<content src="calm.html#Qualify"/>
+		</navPoint>
+
+		<navPoint id="Prove" playOrder="5">
+			<navLabel><text>Prove</text></navLabel>
+			<content src="calm.html#Prove"/>
+		</navPoint>
+
+		<navPoint id="WorkloadModel" playOrder="6">
+			<navLabel><text>Workload Model</text></navLabel>
+			<content src="calm.html#WorkloadModel"/>
+		</navPoint>
+
+		<navPoint id="LifecycleModel" playOrder="7">
+			<navLabel><text>Lifecycle Model</text></navLabel>
+			<content src="calm.html#LifecycleModel"/>
+		</navPoint>
+
+		<navPoint id="HealthModel" playOrder="8">
+			<navLabel><text>Health Model</text></navLabel>
+			<content src="calm.html#HealthModel"/>
+		</navPoint>
+
+		<navPoint id="CostModel" playOrder="9">
+			<navLabel><text>Cost Model</text></navLabel>
+			<content src="calm.html#CostModel"/>
+		</navPoint>
+
+		<navPoint id="SecurityModel" playOrder="10">
+			<navLabel><text>Security Model</text></navLabel>
+			<content src="calm.html#SecurityModel"/>
+		</navPoint>
+
+		<navPoint id="AvailabilityModel" playOrder="11">
+			<navLabel><text>Availability Model</text></navLabel>
+			<content src="calm.html#AvailabilityModel"/>
+		</navPoint>
+
+		<navPoint id="DataModel" playOrder="12">
+			<navLabel><text>Data Model</text></navLabel>
+			<content src="calm.html#DataModel"/>
+		</navPoint>
+
+		<navPoint id="CapacityModel" playOrder="13">
+			<navLabel><text>Capacity Model</text></navLabel>
+			<content src="calm.html#CapacityModel"/>
+		</navPoint>
+
+		<navPoint id="DeploymentModel" playOrder="14">
+			<navLabel><text>Deployment Model</text></navLabel>
+			<content src="calm.html#DeploymentModel"/>
+		</navPoint>
+
+		<navPoint id="IntegrationModel" playOrder="15">
+			<navLabel><text>Integration Model</text></navLabel>
+			<content src="calm.html#IntegrationModel"/>
+		</navPoint>
+
+		<navPoint id="OperationalModel" playOrder="16">
+			<navLabel><text>Operational Model</text></navLabel>
+			<content src="calm.html#OperationalModel"/>
+		</navPoint>
+
+		<navPoint id="TestModel" playOrder="17">
+			<navLabel><text>Test Model</text></navLabel>
+			<content src="calm.html#TestModel"/>
+		</navPoint>
+
+		<navPoint id="License" playOrder="18">
+			<navLabel><text>Test Model</text></navLabel>
+			<content src="calm.html#License"/>
+		</navPoint>
+	</navMap>
+
+
+</ncx>
