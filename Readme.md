@@ -1,4 +1,4 @@
-![CALM](./images/Frontcover-med.png)
+![CALM](https://raw.github.com/projectcalm/Azure-EN/master/Images/Frontcover-med.png)
 
 CALM (Cloud ALM) is guidance for building cloud applications by taking an approach where the entire application lifecycle is considered. It based on a set of models that are produced during the design and implementation of the application. 
 
