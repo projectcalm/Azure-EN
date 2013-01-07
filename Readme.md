@@ -7,7 +7,7 @@ The current release specifically addresses considerations with applications to b
 The project source consists of markdown documents. Any edits should be on this markdown source, rather than other formats.
 
 # Free eBooks for download
-The [github download page](https://github.com/projectcalm/Azure-EN/downloads) includes pdf, html, and mobi (Kindle) formats.
+Pdf, html, and mobi (Kindle) formats are [available for download](http://sdrv.ms/13dTtm6).
 
 # Need hard copy?
 A **printed version** of the book is available for order from [Lulu](http://www.lulu.com/shop/simon-munro/calm-cloud-application-lifecycle-management-with-windows-azure/paperback/product-20545617.html)
